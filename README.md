@@ -22,3 +22,6 @@ Open image file -> Image to binary -> Get mask -> Histogram -> Enhancement mask 
 - ![img/result1.jpg](img/result1.JPG)
 - Calculate area.
 - ![img/result2.jpg](img/result2.JPG)
+
+### reference
+https://blog.csdn.net/whymeYan/article/details/78856964
