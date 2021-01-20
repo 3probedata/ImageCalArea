@@ -11,8 +11,8 @@
 - click buttom at ```area.ipynb ``` and run.
 
 ### Program flow
-open image file -> image to binary -> Get mask -> Histogram -> Enhancement mask block ->
- median blur filter -> Contours -> Draw contours area -> Calculate area.
+Open image file -> Image to binary -> Get mask -> Histogram -> Enhancement mask block ->
+ Median blur filter -> Contours -> Draw contours area -> Calculate area.
 
 ### Input image
 - ![img/pic.png](img/pic.png)
